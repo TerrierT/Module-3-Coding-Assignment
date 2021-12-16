@@ -34,7 +34,7 @@ section {
 	background-color: #00FF99;
 	width: 100%;
 	height: auto;
-	font-family: Helvetica;
+	font-family: Lucida Handwriting;
 	color: black;
 	position: relative;
 	overflow: auto;
@@ -45,7 +45,7 @@ section {
 	text-align: center;
 	width: 30%;
 	margin-left: 70%;
-	font-family: Georgia,sans-serif;
+	font-family: Arial,sans-serif;
 	font-weight: bold;
 	font-size: 125%;
 	margin-bottom: 0;
@@ -59,7 +59,7 @@ section {
 	text-align: center;
 	width: 30%;
 	margin-left: 70%;
-	font-family: Georgia,sans-serif;
+	font-family: Arial,sans-serif;
 	font-weight: bold;
 	font-size: 125%;
 	margin-bottom: 0;
@@ -73,7 +73,7 @@ section {
 	text-align: center;
 	width: 30%;
 	margin-left: 70%;
-	font-family: Georgia,sans-serif;
+	font-family: Arial,sans-serif;
 	font-weight: bold;
 	font-size: 125%;
 	margin-bottom: 0;
