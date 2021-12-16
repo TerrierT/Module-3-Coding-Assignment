@@ -5,7 +5,7 @@
 }
 
 h1 {
-	font-family: Lucida Handwriting, cursive;
+	font-family: Copperplate, fantasy;
 	color: #000000;
 }
 
@@ -34,7 +34,7 @@ section {
 	background-color: #deccd2;
 	width: 100%;
 	height: auto;
-	font-family: Lucida Handwriting;
+	font-family: Copperplate;
 	color: black;
 	position: relative;
 	overflow: auto;
