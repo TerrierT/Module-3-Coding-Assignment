@@ -86,8 +86,8 @@ section {
 }
 
 #chicken-div {
-  margin-bottom: 20px;
-  margin-top: 20px;
+  margin-bottom: auto;
+  margin-top: auto;
 }
 
 #beef-div {
